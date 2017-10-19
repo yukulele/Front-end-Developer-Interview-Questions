@@ -142,7 +142,7 @@ Cette liste contient un certain nombre de questions que vous pouvez poser lors d
 ```
 * Qu'est ce que l'opérateur ternaire ? Qu'est-ce que ce mot indique ?
 * Qu'est-ce que `"use strict";`? Quels sont les avantages et désavantages de son utilisation ?
-* Créez une boucle `for` qui se répète `100` fois et affichez **"fizz"** aux multiples de `3`, `"buzz"` aux multiples de `5` et **"fizzbuzz"** aux multiples de `3` et `5`.
+* Créez une boucle `for` qui se répète `100` fois et affichez **"fizz"** aux multiples de `3`, **"buzz"** aux multiples de `5` et **"fizzbuzz"** aux multiples de `3` et `5`.
 * Pourquoi il est en général préférable de laissez le 'scope' global d'un site tel quel et ne jamais y toucher ?
 * Pourquoi utiliseriez-vous quelque chose comme l'événement `load` ? Est-ce que cet évènement a des avantages ? Connaissez-vous des alternatives, et pourquoi les utiliseriez-vous ?
 * Expliquez ce qu'est une application mono-page (*Single Page Application*) et comment feriez-vous pour qu'elle soit optimisée pour le référencement (*SEO*).
